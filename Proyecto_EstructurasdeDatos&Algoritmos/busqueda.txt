@@ -1,0 +1,13 @@
+                           COLEGIO MEJIA
+                    REPORTE DE CALIFICACIONES
+Búsqueda de calificaciones
+ALGORITMO: Interpolación
+ Nota encontrada
+ En la posición: 4
+ La calificación a buscar fué: 15
+ Corresponde al estudiante: Carlos
+
+                       ---------------------------
+                          Docente: byron                                   
+                          Cédula: 17428343284                               
+

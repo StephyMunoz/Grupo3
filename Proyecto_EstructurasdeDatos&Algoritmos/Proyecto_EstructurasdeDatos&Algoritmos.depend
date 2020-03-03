@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1583190478 source:c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\busquedas.cpp
+	"busquedas.h"
+
+1583189692 c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\busquedas.h
+	"funciones.h"
+
+1583189656 c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\funciones.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<locale.h>
+	<stdlib.h>
+
+1583191870 source:c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\funciones.cpp
+	"funciones.h"
+
+1583190965 source:c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\main.cpp
+	"menus.h"
+	"ordenamientos.h"
+	"busquedas.h"
+
+1583189765 c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\menus.h
+	"funciones.h"
+
+1583189722 c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\ordenamientos.h
+	"funciones.h"
+
+1583189736 source:c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\menus.cpp
+	"menus.h"
+
+1583189758 source:c:\users\hp\desktop\c++\codeblocks\proyecto_estructurasdedatos&algoritmos\ordenamientos.cpp
+	"ordenamientos.h"
+
+1583190478 source:c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\busquedas.cpp
+	"busquedas.h"
+
+1583189692 c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\busquedas.h
+	"funciones.h"
+
+1583189656 c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\funciones.h
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<locale.h>
+	<stdlib.h>
+
+1583191870 source:c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\funciones.cpp
+	"funciones.h"
+
+1583190965 source:c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\main.cpp
+	"menus.h"
+	"ordenamientos.h"
+	"busquedas.h"
+
+1583189765 c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\menus.h
+	"funciones.h"
+
+1583189722 c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\ordenamientos.h
+	"funciones.h"
+
+1583189736 source:c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\menus.cpp
+	"menus.h"
+
+1583189758 source:c:\users\stef_\desktop\proyecto_estructurasdedatos&algoritmos\ordenamientos.cpp
+	"ordenamientos.h"
+

@@ -1,0 +1,22 @@
+                           COLEGIO MEJIA
+                    REPORTE DE CALIFICACIONES
+Calificaciones ordenadas
+ALGORITMO: MergeSort
+Materia: Algoritmos
+ N°                 Estudiante          Calificación        
+ 1                   Roberth              3                                        
+ 2                   Stiven               4                                        
+ 3                   Luis                 12                                       
+ 4                   Carlos               15                                       
+ 5                   Kevin                18                                       
+
+RESUMEN 
+Promedio del curso                                    10.40
+     Total                       Aprobados (14-20)        2
+                                 Suspensos (9-13)         1
+                                 Reprobados (0-8)         2
+
+
+                       ---------------------------
+                          Docente: byron                                   
+                          Cédula: 17428343284                               
